@@ -5,5 +5,8 @@ public class Main {
         Animal.eat();
         Animal.sleep();
 
+        ObjectExample obj1=new ObjectExample();
+        obj1.demo1();
+
     }
 }
